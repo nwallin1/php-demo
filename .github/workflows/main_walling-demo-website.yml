@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'walling-demo-website'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB3CAAA29EC047CAB3B837DA79EA2DFE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0309BB57053645DC898ECD2E9128B2C5 }}
           package: .
